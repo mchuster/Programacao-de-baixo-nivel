@@ -4,5 +4,5 @@
 
 int main() {
     printf("Olá do projeto %s!\n", "aula_17-03");
-    return 0;
+    return EXIT_SUCCESS;
 }
